@@ -24,7 +24,7 @@ h3 {
   position: relative;
   padding-top: 150px;
   padding-bottom: 70px;
-  background-image: url("D:/Web Development/Intermediate CSS/img/wall.jpg");
+  background-image: url("https://github.com/shockboyyy/Gojo/blob/main/img/Wall.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -44,7 +44,7 @@ h3 {
 .skills {
   line-height: 1.5;
   color: white;
-  background-image: url("D:/Web Development/Intermediate CSS/img/back.jpg");
+  background-image: url("https://github.com/shockboyyy/Gojo/blob/main/img/Back.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
 }
