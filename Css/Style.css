@@ -19,7 +19,7 @@ h3 {
 p{
   font-size: 20px;
 }
-.Text{
+.Text{font-size: 20px;
   width:80%;
   margin: auto;
 }
@@ -168,6 +168,6 @@ text-decoration: none;
 }
 
 .ak{
-  font-size: 16px;
+  font-size: 10px;
 
 }
