@@ -16,6 +16,13 @@ h3 {
   font-family: 'Yusei Magic', sans-serif;
   color: white;
 }
+p{
+  font-size: 20px;
+}
+.Text{
+  width:80%;
+  margin: auto;
+}
 
 .top {
   position: relative;
