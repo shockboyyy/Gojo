@@ -34,11 +34,9 @@ p{
 }
 
 .intro {
-  margin:90px auto;
-  padding-top: 20px;
-  padding-bottom: 120px;
+  margin:170px auto;
   line-height: 1.7;
-  padding-right: 30px;
+  width:90%;
 }
 
 .space {
