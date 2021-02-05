@@ -56,12 +56,12 @@ p{
 .top-cloud {
   position: absolute;
   top: 70px;
-  right: 25%;
+  right: 15%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 25%;
+  left: 15%;
   top: 350px;
 }
 
