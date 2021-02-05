@@ -34,9 +34,10 @@ p{
 }
 
 .intro {
-  padding-top: 180px;
-  padding-bottom: 200px;
-  line-height: 2;
+  margin:90px auto;
+  padding-top: 20px;
+  padding-bottom: 120px;
+  line-height: 1.7;
   padding-right: 30px;
 }
 
